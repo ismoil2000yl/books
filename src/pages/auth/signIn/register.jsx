@@ -69,7 +69,7 @@ const Index = () => {
     }
 
     return (
-        <div className="w-full bg-contain bg-no-repeat bg-left h-[100vh]" style={{ backgroundImage: "url('/src/assets/images/png/bg.png')" }}>
+        <div className="w-full bg-contain bg-no-repeat bg-left h-[100vh]" style={{ backgroundImage: "url('/bg.png')" }}>
             <div className='w-full h-full flex items-center justify-center'>
                 <Card className='w-[330px]'>
                     <h1 className='text-[#151515] text-center'>
